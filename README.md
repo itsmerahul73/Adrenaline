@@ -1,5 +1,4 @@
 # Adrenaline
-Adrenaline is a Car Game
 Adrenaline is a classic car game that is built on HTML canvas.
 CSS was used for the styling of the game.
 JavaScript was used for implementing the objects, their movements, and animations.
